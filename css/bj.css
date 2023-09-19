@@ -1,0 +1,60 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#box{
+	margin: 0 auto;
+	width: 900px;
+	height: 500px;
+
+}
+#a{
+	margin: 0 auto;
+	width: 900px;
+	height: 600px;
+	background: lightblue;
+}
+#b{
+	width: 900px;
+	height: 125px;
+	background: steelblue;
+}
+#c{
+	width: 900px;
+	height: 400px;
+	background: lightblue;
+}
+#d{
+	width: 900px;
+	height: 80px;
+	background: steelblue;
+}	
+#e{
+	width: 200px;
+	height: 600px;
+	background: steelblue;
+	float: left;
+}
+#f{
+	width: 700px;
+	height: 600px;
+	background: lightblue;
+	float:right;
+}
+#g{
+	float: left;
+	width: 200px;
+	height: 400px;
+	background: darkblue;
+}
+#h{
+	width: 900px;
+	height: 25px;
+	background: blueviolet;
+}
+#i{
+	width: 200px;
+	height: 400px;
+	background: darkblue;
+	float: right;
+}
